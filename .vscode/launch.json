@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClient",
+            "request": "launch",
+            "mainClass": "MyClient",
+            "projectName": "programSI_92dcee8a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ensyu",
+            "request": "launch",
+            "mainClass": "Ensyu"
+        }
+    ]
+}
